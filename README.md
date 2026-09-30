@@ -111,19 +111,18 @@ Transformando ideias em projetos e soluções.
 <p align="center">
 
 🌷 Tecnologia Educacional  
-<br><br>
+<br>
 💻 Desenvolvimento Web  
-<br><br>
+<br>
 🎀 Programação  
-<br><br>
+<br>
 ✨ Inovação  
-<br><br>
+<br>
 🎨 Design e Criatividade  
-<br><br>
+<br>
 📚 Educação e Aprendizagem  
-<br><br>
+<br>
 🌱 Desenvolvimento de Projetos
-
 </p>
 
 ---
