@@ -25,9 +25,6 @@
 
 <p align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&pause=1200&color=D8759B&center=true&vCenter=true&width=700&lines=Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%8C%B7;Tecnologia+%2B+Educação+%2B+Criatividade;Aprendendo%2C+criando+e+evoluindo+%E2%99%A1"
-  >
 
 </p>
 
